@@ -1,0 +1,22 @@
+# Java / Maven
+**/target/
+**/.idea/
+**/.vscode/
+**/*.iml
+**/.mvn/apache-maven-*/
+**/.mvn/apache-maven-*.zip
+
+# Node / Vite
+**/node_modules/
+**/dist/
+
+# Local configuration and secrets
+**/.env
+**/*.log
+
+# Runtime data
+**/data/
+
+# OS files
+**/.DS_Store
+Thumbs.db
